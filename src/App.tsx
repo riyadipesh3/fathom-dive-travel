@@ -136,7 +136,7 @@ const SITES = [
 const TRIPS = [
   {
     date: 'Sat 12 Sep',
-    days: 7 days',
+    days: '7 days',
     trip: 'Cocos Island, liveaboard',
     room: 'Twin cabin',
     dives: '18 dives, nitrox 32%',
@@ -145,7 +145,7 @@ const TRIPS = [
   },
   {
     date: 'Wed 9 Oct',
-    days: 6 days',
+    days: '6 days',
     trip: 'Cocos Island, liveaboard',
     room: 'Twin cabin',
     dives: '16 dives, nitrox 32%',
@@ -154,7 +154,7 @@ const TRIPS = [
   },
   {
     date: 'Sun 3 Nov',
-    days: 7 days',
+    days: '7 days',
     trip: 'Komodo, Phinisi',
     room: 'Twin cabin',
     dives: '18 dives, nitrox 32%',
@@ -163,7 +163,7 @@ const TRIPS = [
   },
   {
     date: 'Fri 22 Nov',
-    days: 5 days',
+    days: '5 days',
     trip: 'Komodo, Phinisi',
     room: 'Twin cabin',
     dives: '12 dives, nitrox 32%',
@@ -172,7 +172,7 @@ const TRIPS = [
   },
   {
     date: 'Thu 5 Feb',
-    days: 7 days',
+    days: '7 days',
     trip: 'Cocos Island, liveaboard',
     room: 'Twin cabin',
     dives: '18 dives, nitrox 32%',
